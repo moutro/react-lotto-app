@@ -1,4 +1,5 @@
 Simple app created to practice:
+
 Design a Component using downward flow of data
 Managing State in the Parent Component and rendering display components 
 Mutate State without mutating the existing State
