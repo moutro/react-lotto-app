@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-lotto-app/static/css/main.d2059087.chunk.css",
+    "main.js": "/react-lotto-app/static/js/main.b4b91ab9.chunk.js",
+    "main.js.map": "/react-lotto-app/static/js/main.b4b91ab9.chunk.js.map",
+    "runtime~main.js": "/react-lotto-app/static/js/runtime~main.66c24995.js",
+    "runtime~main.js.map": "/react-lotto-app/static/js/runtime~main.66c24995.js.map",
+    "static/js/2.0da088c4.chunk.js": "/react-lotto-app/static/js/2.0da088c4.chunk.js",
+    "static/js/2.0da088c4.chunk.js.map": "/react-lotto-app/static/js/2.0da088c4.chunk.js.map",
+    "index.html": "/react-lotto-app/index.html",
+    "precache-manifest.9e82698035b78d85300d0823ca4a7550.js": "/react-lotto-app/precache-manifest.9e82698035b78d85300d0823ca4a7550.js",
+    "service-worker.js": "/react-lotto-app/service-worker.js",
+    "static/css/main.d2059087.chunk.css.map": "/react-lotto-app/static/css/main.d2059087.chunk.css.map"
+  }
+}
